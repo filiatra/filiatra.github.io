@@ -1,0 +1,10 @@
+#latex
+*.bcf
+*.blg
+*.aux
+*.dvi
+*.log
+*~
+*.out
+*.run.xml
+*-blx.bib
